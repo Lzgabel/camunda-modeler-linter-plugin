@@ -26,6 +26,7 @@
     "bpmnlint": "^7.2.1",
     "bpmnlint-loader": "^0.1.5",
     "bpmnlint-plugin-camunda": "^0.5.0",
+    "bpmnlint-plugin-zeebe-lzgabel": "^0.0.2",
     "camunda-modeler-plugin-helpers": "^3.1.0",
     "cpx": "^1.5.0",
     "min-dom": "^3.1.1",
